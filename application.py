@@ -4,10 +4,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    try:
-        return render_template("index.html")
-    except Exception as e:
-        return str(e)
+    return "simple test"
 
  
 if __name__ == "__main__":
