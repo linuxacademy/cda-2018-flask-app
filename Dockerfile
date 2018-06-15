@@ -1,6 +1,6 @@
 FROM python:3.5-slim
 
-MAINTAINER fernando@linuxacademy.com
+LABEL maintainer="fernando@linuxacademy.com"
 
 USER root
 
