@@ -19,7 +19,7 @@ itsdangerous==0.24
 Jinja2==2.10
 jmespath==0.9.3
 jsonschema==2.6.0
-MarkupSafe==1.0
+MarkupSafe==1.1
 pathspec==0.5.5
 python-dateutil==2.7.3
 PyYAML==3.13
