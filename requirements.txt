@@ -23,7 +23,7 @@ MarkupSafe==1.1
 pathspec==0.5.5
 python-dateutil==2.7.3
 PyYAML==3.13
-requests==2.18.4
+requests==2.20.0
 semantic-version==2.5.0
 six==1.11.0
 tabulate==0.7.5
